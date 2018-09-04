@@ -7,6 +7,73 @@ REACT - 22 hrs
 NODE - 22 hrs
 - Backend Framework
 
+---
+# Timeline
+| Day | Particulars |
+| --- | --- |
+| D1 | Introduction to Web |
+| D2 | Terminals |
+
+---
+# D1 Introduction to Web
+- Network
+- Network Types
+- Internet
+- Purpose of Network
+- Data Packets
+- Client Server
+
+# D2 Terminal
+- Introduction
+- Some commonly used commands
+    1. clear
+    1. pwd - present working directory
+    1. cd - change  directory
+    1. mkdir - make directory
+    1. touch - makes file
+    1. open(mac) xdg-open(linux) - opens file 
+    1. sudo - super user privilege
+    1. cp - copy files and folders
+    1. mv - move/rename files and folders
+    1. rm - remove/delete file and folders
+    1. ls - list files and folder
+    1. man - manual
+
+# D3 Setting up working environment
+
+# Tools of the trade
+* Computer ✅
+* Google Chrome ✅
+* Text Editor (VSCode) ✅ 
+* Command Line Interface (CLI) ✅
+* Stack Overflow ✅
+* Git ✅
+* GitHub ✅
+
+---
+# Protocols Used
+- HTTP/HTTPS (=HTTP+SSL)
+- DNS
+- DHCP
+- FTP
+- SMTP/IMAP/POP3
+
+---
+# Git Commands
+
+1. git init - initalized an empty Git repo
+1. git status - shows the status of repo
+1. git add - Adds file to be tracked
+1. git commit - commits a file or locks a version of a file
+1. git log - shows you the logs
+1. git checkout - change your branch or head
+1. git remote add origin <remote-path> - adds a remote point
+1. git remote -v - shows the available remotes
+1. git push origin <branch-name> - pushes the commits to the remote branch
+
+---
+
+
 Web Fundamentals
 
 NETWORK
@@ -42,14 +109,7 @@ Assignment
 4. Watch this Google short explaining what a web browser is; then find out what web browser you are using right now.
 5. Now read about how one part of the web interacts with another and read or watch a DNS request in action.
 
-# Tools of the trade
-* Computer
-* Google Chrome
-* Text Editor
-* Command Line Interface (CLI)
-* Stack Overflow
-* Git
-* GitHub
+
 
 Introduction to basic HTML
 * Creating a very basic website
