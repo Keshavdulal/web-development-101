@@ -70,6 +70,7 @@ NODE - 22 hrs
 1. git remote add origin <remote-path> - adds a remote point
 1. git remote -v - shows the available remotes
 1. git push origin <branch-name> - pushes the commits to the remote branch
+1. git diff - shows the changes since last commit
 
 ---
 
