@@ -23,59 +23,7 @@ NODE - 22 hrs
 - Data Packets
 - Client Server
 
-# D2 Terminal
-- Introduction
-- Some commonly used commands
-    1. clear
-    1. pwd - present working directory
-    1. cd - change  directory
-    1. mkdir - make directory
-    1. touch - makes file
-    1. open(mac) xdg-open(linux) - opens file 
-    1. sudo - super user privilege
-    1. cp - copy files and folders
-    1. mv - move/rename files and folders
-    1. rm - remove/delete file and folders
-    1. ls - list files and folder
-    1. man - manual
-
-# D3 Setting up working environment
-
-# Tools of the trade
-* Computer ✅
-* Google Chrome ✅
-* Text Editor (VSCode) ✅ 
-* Command Line Interface (CLI) ✅
-* Stack Overflow ✅
-* Git ✅
-* GitHub ✅
-
----
-# Protocols Used
-- HTTP/HTTPS (=HTTP+SSL)
-- DNS
-- DHCP
-- FTP
-- SMTP/IMAP/POP3
-
----
-# Git Commands
-
-1. git init - initalized an empty Git repo
-1. git status - shows the status of repo
-1. git add - Adds file to be tracked
-1. git commit - commits a file or locks a version of a file
-1. git log - shows you the logs
-1. git checkout - change your branch or head
-1. git remote add origin <remote-path> - adds a remote point
-1. git remote -v - shows the available remotes
-1. git push origin <branch-name> - pushes the commits to the remote branch
-1. git diff - shows the changes since last commit
-
----
-
-
-Web Fundamentals
+# Web Fundamentals
 
 NETWORK
 - PAN
@@ -103,13 +51,76 @@ SERVER
  DNS servers 
     * DNS Servers are the "phone book" of the internet. They translate IP addresses into domain names.
 
-Assignment
-1. Watch this BBC short for an overview of how the Internet works.
-2. Supplement this with a reading and a video.
-3. Read up on the differences between a webpage, web server and a search engine.
-4. Watch this Google short explaining what a web browser is; then find out what web browser you are using right now.
-5. Now read about how one part of the web interacts with another and read or watch a DNS request in action.
+# Protocols Used
+- HTTP/HTTPS (=HTTP+SSL)
+- DNS
+- DHCP
+- FTP
+- SMTP/IMAP/POP3
 
+# External Links
+1. [Watch this BBC short for an overview of how the Internet works.](https://vimeo.com/128575085)
+1. Supplement this with a [reading](https://developer.mozilla.org/en-US/Learn/Common_questions/How_does_the_Internet_work#Summary) and a [video](https://youtu.be/7_LPdttKXPc?t=46s).
+1. Read up on the differences between a webpage, web server and a search engine.
+    - https://developer.mozilla.org/en-US/Learn/Common_questions/Pages_sites_servers_and_search_engines#Summary
+1. Watch this Google short explaining what a web browser is; then find out what web browser you are using right now.
+    - https://youtu.be/BrXPcaRlBqo
+    - https://whatbrowser.org/
+1. Now read about how one part of the web interacts with another and read or watch a DNS request in action.
+    - https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/How_the_Web_works#Clients_and_servers
+    - https://developer.mozilla.org/en-US/Learn/Common_questions/What_is_a_domain_name#How_does_a_DNS_request_work
+    - https://www.youtube.com/watch?v=72snZctFFtA&feature=youtu.be&t=45s
+
+---
+
+# D2 Terminal
+- Introduction
+- Some commonly used commands
+    1. clear
+    1. pwd - present working directory
+    1. cd - change  directory
+    1. mkdir - make directory
+    1. touch - makes file
+    1. open(mac) xdg-open(linux) - opens file 
+    1. sudo - super user privilege
+    1. cp - copy files and folders
+    1. mv - move/rename files and folders
+    1. rm - remove/delete file and folders
+    1. ls - list files and folder
+    1. man - manual
+
+---
+# D3 Setting up working environment
+
+# Tools of the trade
+* Computer ✅
+* Google Chrome ✅
+* Text Editor (VSCode) ✅ 
+* Command Line Interface (CLI) ✅
+* Stack Overflow ✅
+* Git ✅
+* GitHub ✅
+
+---
+# Git Commands
+
+1. git init - initalized an empty Git repo
+1. git status - shows the status of repo
+1. git add - Adds file to be tracked
+1. git commit - commits a file or locks a version of a file
+1. git log - shows you the logs
+1. git checkout - change your branch or head
+1. git remote add origin <remote-path> - adds a remote point
+1. git remote -v - shows the available remotes
+1. git push origin <branch-name> - pushes the commits to the remote branch
+1. git diff - shows the changes since last commit
+
+---
+
+# D4 HTML/CSS
+- HTML Tags
+- HTML document structure
+- Anatomy of HTML element
 
 
 Introduction to basic HTML
