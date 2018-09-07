@@ -1,0 +1,7 @@
+hi my name is keshav
+i am learning vim
+
+now i save my file
+and now i am going to save and quit this file
+
+add new line

@@ -114,6 +114,7 @@ SERVER
 1. git remote -v - shows the available remotes
 1. git push origin <branch-name> - pushes the commits to the remote branch
 1. git diff - shows the changes since last commit
+1. git clone - make a copy of remote repo on your local machine
 
 ---
 
