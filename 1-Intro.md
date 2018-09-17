@@ -8,15 +8,13 @@ NODE - 22 hrs
 - Backend Framework
 
 ---
-# Timeline
-| Day | Particulars |
-| --- | --- |
-| D1 | Introduction to Web |
-| D2 | Terminals |
-| D3 | Version Control Using GIT/GITHUB |
-| D4 | Introduction to HTML |
-| D5 | Introduction to CSS |
-| D6 | Introduction to JS |
+# Course Content
+1. Introduction to Web
+1. Terminals
+1. Version Control Using GIT/GITHUB
+1. Introduction to HTML
+1. Introduction to CSS
+1. Introduction to JS
 
 
 ---
@@ -76,6 +74,8 @@ SERVER
     - https://developer.mozilla.org/en-US/Learn/Common_questions/What_is_a_domain_name#How_does_a_DNS_request_work
     - https://www.youtube.com/watch?v=72snZctFFtA&feature=youtu.be&t=45s
 
+1. [Learn anything | Web Development](https://learn-anything.xyz/web-development)
+
 ---
 
 # D2 Terminal
@@ -124,45 +124,65 @@ SERVER
 ---
 # D4 Introduction to HTML
 
-* What is HTML
-* HTML Tags
-* HTML document structure
-* Anatomy of HTML element
-* Creating a very basic website
-* Planning a basic website
-* Assembling files and folders
-* Marking up text
-* Links
-* Using comments
-* HTML Attributes
+- What is HTML
+- HTML Tags
+- HTML document structure
+- Anatomy of HTML element
+- Creating a very basic website
+- Planning a basic website
+- Assembling files and folders
+- Marking up text
+- Links
+- Using comments
+- HTML Attributes
+
+# Personal Website Design References
+- http://travisneilson.com
+- 
 
 ---
 # D5 Introduction to CSS
 
-* What is CSS
-* Ways to apply CSS
-* CSS Ruleset
-* CSS basic selectors
-* Styling multiple elements
-* CSS Box model
-* Using margin and padding properties
-* Changing background color
-* CSS Display property
-* CSS Font property
-* Using google fonts
+- What is CSS
+- Ways to apply CSS
+    - Inline CSS
+    - Internal CSS
+    - External CSS
+- CSS Ruleset
+- CSS basic selectors
+- Styling multiple elements
+- CSS Box model
+- Using margin and padding properties
+- Changing background color
+- CSS Display property
+- CSS Font property
+- Using google fonts
+
+# Resources
+- [Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
 
 ---
 # D6 Introduction to JS
 
-* What is JavaScript
-* Where to place JavaScript
-* Variables
-* Data Types
-* Operators
-* Operator precedence
-* Using Conditionals
-* Functions
-* Events
-* Using Linting tools
-* Adding image changer
-* Adding personalized message
+- What is JavaScript/ECMASCRIPT (ES5)
+- Where to place JavaScript
+    - Inline JS
+    - Internal JS
+    - External JS
+- Variables
+- Data Types
+- Operators
+- Operator precedence
+- Using Conditionals
+- Functions
+- Events
+- Using Linting tools
+- Adding image changer
+- Adding personalized message
+
+# Resources
+- [Developer Roadmap 2018 | Github](https://github.com/kamranahmedse/developer-roadmap)
+- [NODE](https://nodejs.org/en/download/)
+- [MDN - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
+- [How it feels to learn JavaScript in 2016 | Medium](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
+- [Spellbook-of-modern-webdev | Github](https://github.com/dexteryy/spellbook-of-modern-webdev)
