@@ -13,6 +13,11 @@ NODE - 22 hrs
 | --- | --- |
 | D1 | Introduction to Web |
 | D2 | Terminals |
+| D3 | Version Control Using GIT/GITHUB |
+| D4 | Introduction to HTML |
+| D5 | Introduction to CSS |
+| D6 | Introduction to JS |
+
 
 ---
 # D1 Introduction to Web
@@ -117,26 +122,23 @@ SERVER
 1. git clone - make a copy of remote repo on your local machine
 
 ---
+# D4 Introduction to HTML
 
-# D4 HTML/CSS
-- HTML Tags
-- HTML document structure
-- Anatomy of HTML element
-
-
-Introduction to basic HTML
+* What is HTML
+* HTML Tags
+* HTML document structure
+* Anatomy of HTML element
 * Creating a very basic website
 * Planning a basic website
 * Assembling files and folders
-* What is HTML
-* HTML document structure
-* Anatomy of HTML element
 * Marking up text
 * Links
 * Using comments
 * HTML Attributes
 
-Introduction to  basic CSS
+---
+# D5 Introduction to CSS
+
 * What is CSS
 * Ways to apply CSS
 * CSS Ruleset
@@ -149,7 +151,9 @@ Introduction to  basic CSS
 * CSS Font property
 * Using google fonts
 
-Introduction to basic JavaScript
+---
+# D6 Introduction to JS
+
 * What is JavaScript
 * Where to place JavaScript
 * Variables
@@ -162,4 +166,3 @@ Introduction to basic JavaScript
 * Using Linting tools
 * Adding image changer
 * Adding personalized message
-
